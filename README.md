@@ -1,4 +1,4 @@
-### Hi there I'm Gal 👋
+<h1><b> Hi there I'm Gal 👋</b></h1>
 
 <h2>Full Stack Developer | Experienced with React, NodeJS , MongoDB and Python | Ability to create web applications which help users to solve day-to-day issues.</h2>
 
