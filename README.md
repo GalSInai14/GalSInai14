@@ -5,7 +5,7 @@
 <h1>About Me 👇</h1>
 <ul>
   <li>I'm a fullstack developer.</li>
-  <li>Ambitious, hard worker and a team player.</li>
+  <li>Ambitious, hard worker, quick learner and a great team player.</li>
   <li>Computer sciences student, currently 2nd year.</li>
   <li>You can reach me out with <a href='galsinai33@gmail.com'>My Email</a></li>
 </ul>
