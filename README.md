@@ -7,5 +7,5 @@
   <li>I'm a fullstack developer.</li>
   <li>Ambitious, hard worker, quick learner and a great team player.</li>
   <li>Computer sciences student, currently 2nd year.</li>
-  <li>You can reach me out: <a type='mail'>galsinai33@gmail.com</a>. </li>
+  <li>You can reach me out: <a type=mail>galsinai33@gmail.com</a>. </li>
 </ul>
