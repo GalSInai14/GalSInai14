@@ -6,6 +6,6 @@
 <ul>
   <li>I'm a fullstack developer.</li>
   <li>Ambitious, hard worker, quick learner and a great team player.</li>
-  <li>Computer sciences student, currently 2nd year.</li>
+  <li>Computer sciences student, currently 3nd year.</li>
   
 </ul>
